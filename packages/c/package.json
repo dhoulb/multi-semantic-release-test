@@ -1,0 +1,11 @@
+{
+	"name": "multi-semantic-release-test-c",
+	"version": "0.0.0",
+	"license": "0BSD",
+	"devDependencies": {
+		"multi-semantic-release-test-a": "*"
+	},
+	"release": {
+		"tagFormat": "multi-semantic-release-test-c@v${version}"
+	}
+}
