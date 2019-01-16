@@ -3963,9 +3963,9 @@ ms@^2.0.0, ms@^2.1.1:
   integrity sha512-tgp+dl5cGk28utYktBsrFqA7HKgrhgPsg6Z/EfhWI4gl1Hwq8B/GmY/0oXZ6nF8hDVesS/FpnYaD/kOWhYQvyg==
 
 multi-semantic-release@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/multi-semantic-release/-/multi-semantic-release-1.0.2.tgz#d6173253b1c51063fc19efe62c0440e50d6bebc3"
-  integrity sha512-+smBcwPc0U1dviuzoxHPVAPsjzMxKzP/ORbVi2UKpSGm0wYNc166haeIRqsbfeF/RYfVR5JtLyYOYp16Vlh9IQ==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/multi-semantic-release/-/multi-semantic-release-1.0.3.tgz#ebd8414671aab9a445c10244f4ce446535f46787"
+  integrity sha512-MIv6+RxL4kF6kNhYE9qFSKHjDv0+4yIt+VwGWhShkw65+S3hPR2xfhQDzMBd4d+qPRMKfHi20XKmrR1UwSbIrw==
   dependencies:
     bash-glob "^2.0.0"
     blork "^9.1.1"
